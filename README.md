@@ -1,0 +1,1 @@
+# msteams-aisearch-terraform
